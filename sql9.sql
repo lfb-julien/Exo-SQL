@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS nombre_ventes_appartements FROM votre_table WHERE YEAR(date_transaction) = 2022 AND type_batiment = 'appartement' AND ville IN (SELECT ville FROM votre_table WHERE revenu_fiscal > 70000 AND YEAR(date_transaction) = 2018);
