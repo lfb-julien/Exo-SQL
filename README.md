@@ -22,4 +22,4 @@ ssh-add ~/.ssh/id_ed25519
 
 Ajouter la clé ssh a github
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![image](https://github.com/lfb-julien/Exo-SQL/assets/155462070/5e4208f9-3f69-4b77-aff8-609e689e3108)
