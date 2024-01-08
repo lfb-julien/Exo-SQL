@@ -22,3 +22,4 @@ ssh-add ~/.ssh/id_ed25519
 
 Ajouter la clé ssh a github
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
